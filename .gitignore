@@ -1,0 +1,10 @@
+*.pth
+*.txt
+OneDrive_2026-04-06/
+*.ipynb_checkpoints/
+__pycache__/
+*.pt
+*.h5
+*.png
+*.jpg
+*.jpeg
